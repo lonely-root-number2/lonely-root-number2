@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi,I'm a student in the UPC. love code.
+  QQ：3309647521
+  [![lonely-root-number2's github stats](https://github-readme-stats.vercel.app/api?username=lonely-root-number2)](https://github.com/lonely-root-number2)
