@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi,I'm a student in the UPC. love code.
+Hi,I'm a student in the UPC. love code. 
   QQ：3309647521
+  <br>
   [![lonely-root-number2's github stats](https://github-readme-stats.vercel.app/api?username=lonely-root-number2)](https://github.com/lonely-root-number2)
-<a href="https://github.com/lonely-root-number2">
+ [![lonely-root-number2's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lonely-root-number2&layout=compact)](https://github.com/lonely-root-number2)
   
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lonely-root-number2&layout=compact" />
-</a>
